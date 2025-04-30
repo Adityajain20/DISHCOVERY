@@ -1,2 +1,2 @@
 # DISHCOVERY
-It provide the instruction to make dish through the name the dish.
+It provide the instruction to make dish through the name of dish.
